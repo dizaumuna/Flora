@@ -1,3 +1,5 @@
+<img width="1340" height="528" alt="Floha" src="https://github.com/user-attachments/assets/813d0f16-ddd1-4ee5-a787-450b37451c71" />
+
 # ℹ️ What is Floha?
 Floha is a Magisk Module. Re-born of Nexusify.
 
